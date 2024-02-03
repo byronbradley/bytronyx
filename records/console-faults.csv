@@ -1,0 +1,73 @@
+console_label,model,reported_issue,record_count
+SNES,SNS-001,Shell Error,1
+Gamecube,DOL-001,Button Error,1
+Gamecube,DOL-001,Disk Error,2
+Gamecube,DOL-001,Disk Error / Port Error,1
+NES,NES-001,Cartridge Error,1
+NES,NES-001,Dock Error,1
+NES,NES-001,Missing Case,1
+NES,NES-001,Unknown,2
+NES,NES-001,Works,1
+PS1,SCPH-1001,Disk Error,3
+PS1,SCPH-1001,Unknown,2
+PS1,SCPH-5501,Disk Error,5
+PS1,SCPH-7001,Disk Error,3
+PS1,SCPH-7001,Port Error,1
+PS1,SCPH-7501,Disk Error,8
+PS1,SCPH-7501,Unknown,2
+PS1,SCPH-9001,Disk Error,3
+PS1,SCPH-9001,GPU Error,1
+PS1,SCPH-9001,Video Error,1
+PS2 FAT,SCPH-30001,Disk Error,7
+PS2 FAT,SCPH-30001,Disk Error / Port Error,1
+PS2 FAT,SCPH-30001,Drive Error,5
+PS2 FAT,SCPH-30001,Unknown,1
+PS2 FAT,SCPH-35001,Drive Error,1
+PS2 FAT,SCPH-39001,Disk Error,5
+PS2 FAT,SCPH-39001,Drive Error,2
+PS2 FAT,SCPH-39001,Shell Error / Drive Error,1
+PS2 FAT,SCPH-39001,Unknown,1
+PS2 FAT,SCPH-50001,Disk Error / Port Error,1
+PS2 FAT,SCPH-50001,Drive Error,2
+PS2 SLIM,SCPH-70001,Disk Error,1
+PS2 SLIM,SCPH-70012,Disk Error,2
+PS2 SLIM,SCPH-70012,PSU Error,1
+PS2 SLIM,SCPH-70012,Unknown,4
+PS2 SLIM,SCPH-70012,Video Error,3
+PS2 SLIM,SCPH-75001,Broken Shell / Disk Error,1
+PS2 SLIM,SCPH-75001,Unknown,1
+PS2 SLIM,SCPH-77001,Disk Error,1
+PS2 SLIM,SCPH-77001,Unknown,3
+PS2 SLIM,SCPH-79001,Disk Error,1
+PS2 SLIM,SCPH-90001,Disk Error,1
+PS2 SLIM,Unknown,Video Error,1
+PS3,CBEH1000,Disk Error,1
+PS3,CBEH1000,Unknown,1
+PS3,CECH-2001A,Disk Error / USB Error,1
+PS3,CECH-3001A,PSU Error,1
+PS3,CECH-4001B,Unknown,1
+PS4,CUH-2215B,Update Error,1
+PsOne,SCPH-101,Disk Error,2
+PsOne,SCPH-101,Missing Screws,1
+PsOne,SCPH-101,Unknown,1
+PsOne,SCPH-101,Video Error,1
+SNES,SNS-001,Cartridge Error,1
+SNES,SNS-001,Unknown,1
+Sega Genesis,MK-1631,Unknown,1
+Xbox OG Xbox,,Disk Issue,4
+Xbox OG Xbox,,PSU Issue,5
+Xbox OG Xbox,,Tray Issue,5
+Xbox OG Xbox,,Unknown,1
+Xbox OG Xbox,,Works,1
+Xbox OG Xbox,Unknown,PSU Issue,1
+Xbox OG Xbox,Unknown,Unknown,1
+Xbox360,Falcon,Disk Error,1
+Xbox360,Falcon,RROD,2
+Xbox360,Falcon,Tray Error,2
+Xbox360,Jasper,Disk Error,1
+Xbox360,Jasper,Tray Error,3
+Xbox360,Trinity,RROD,1
+Xbox360,Xenon,RROD,1
+Xbox360,Xenon,Tray Error,1
+Xbox360,Xenon,Unknown,4
+Xbox360,Zephyr,Unknown,1

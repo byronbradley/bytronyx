@@ -1,0 +1,137 @@
+record_id,category,item,model,reported_issue
+REC-106,Console,Gamecube,DOL-001,Disk Error / Port Error
+REC-107,Console,Gamecube,DOL-001,Button Error
+REC-108,Console,Gamecube,DOL-001,Disk Error
+REC-109,Console,Gamecube,DOL-001,Disk Error
+REC-110,Console,NES,NES-001,Cartridge Error
+REC-111,Console,NES,NES-001,Unknown
+REC-112,Console,NES,NES-001,Dock Error
+REC-113,Console,SNES,SNS-001,Unknown
+REC-114,Console,SNES,SNS-001,Cartridge Error
+REC-115,Console,SNES,SNS-001,Shell Error
+REC-116,Console,NES,NES-001,Missing Case
+REC-117,Console,NES,NES-001,Unknown
+REC-118,Console,NES,NES-001,Works
+REC-119,Console,PS1,SCPH-1001,Disk Error
+REC-120,Console,PS1,SCPH-1001,Disk Error
+REC-121,Console,PS1,SCPH-1001,Disk Error
+REC-122,Console,PS1,SCPH-1001,Unknown
+REC-123,Console,PS1,SCPH-1001,Unknown
+REC-124,Console,PS1,SCPH-5501,Disk Error
+REC-125,Console,PS1,SCPH-5501,Disk Error
+REC-126,Console,PS1,SCPH-5501,Disk Error
+REC-127,Console,PS1,SCPH-5501,Disk Error
+REC-128,Console,PS1,SCPH-5501,Disk Error
+REC-129,Console,PS1,SCPH-7001,Disk Error
+REC-130,Console,PS1,SCPH-7001,Disk Error
+REC-131,Console,PS1,SCPH-7001,Disk Error
+REC-132,Console,PS1,SCPH-7001,Port Error
+REC-133,Console,PS1,SCPH-7501,Disk Error
+REC-134,Console,PS1,SCPH-7501,Disk Error
+REC-135,Console,PS1,SCPH-7501,Disk Error
+REC-136,Console,PS1,SCPH-7501,Disk Error
+REC-137,Console,PS1,SCPH-7501,Disk Error
+REC-138,Console,PS1,SCPH-7501,Disk Error
+REC-139,Console,PS1,SCPH-7501,Disk Error
+REC-140,Console,PS1,SCPH-7501,Disk Error
+REC-141,Console,PS1,SCPH-7501,Unknown
+REC-142,Console,PS1,SCPH-7501,Unknown
+REC-143,Console,PS1,SCPH-9001,Disk Error
+REC-144,Console,PS1,SCPH-9001,Disk Error
+REC-145,Console,PS1,SCPH-9001,Disk Error
+REC-146,Console,PS1,SCPH-9001,GPU Error
+REC-147,Console,PS1,SCPH-9001,Video Error
+REC-148,Console,PS2 FAT,SCPH-30001,Drive Error
+REC-149,Console,PS2 FAT,SCPH-50001,Drive Error
+REC-150,Console,PS2 FAT,SCPH-50001,Drive Error
+REC-151,Console,PS2 FAT,SCPH-30001,Disk Error / Port Error
+REC-152,Console,PS2 FAT,SCPH-30001,Drive Error
+REC-153,Console,PS2 FAT,SCPH-30001,Disk Error
+REC-154,Console,PS2 FAT,SCPH-39001,Shell Error / Drive Error
+REC-155,Console,PS2 FAT,SCPH-30001,Drive Error
+REC-156,Console,PS2 FAT,SCPH-30001,Disk Error
+REC-157,Console,PS2 FAT,SCPH-39001,Disk Error
+REC-158,Console,PS2 FAT,SCPH-30001,Disk Error
+REC-159,Console,PS2 FAT,SCPH-30001,Disk Error
+REC-160,Console,PS2 FAT,SCPH-50001,Disk Error / Port Error
+REC-161,Console,PS2 FAT,SCPH-30001,Unknown
+REC-162,Console,PS2 FAT,SCPH-39001,Unknown
+REC-163,Console,PS2 FAT,SCPH-39001,Drive Error
+REC-164,Console,PS2 FAT,SCPH-35001,Drive Error
+REC-165,Console,PS2 FAT,SCPH-39001,Disk Error
+REC-166,Console,PS2 FAT,SCPH-39001,Drive Error
+REC-167,Console,PS2 FAT,SCPH-39001,Disk Error
+REC-168,Console,PS2 FAT,SCPH-30001,Disk Error
+REC-169,Console,PS2 FAT,SCPH-30001,Drive Error
+REC-170,Console,PS2 FAT,SCPH-39001,Disk Error
+REC-171,Console,PS2 FAT,SCPH-30001,Drive Error
+REC-172,Console,PS2 FAT,SCPH-30001,Disk Error
+REC-173,Console,PS2 FAT,SCPH-30001,Disk Error
+REC-174,Console,PS2 FAT,SCPH-39001,Disk Error
+REC-175,Console,PS2 SLIM,SCPH-75001,Broken Shell / Disk Error
+REC-176,Console,PS2 SLIM,Unknown,Video Error
+REC-177,Console,PS2 SLIM,SCPH-75001,Unknown
+REC-178,Console,PS2 SLIM,SCPH-70012,Unknown
+REC-179,Console,PS2 SLIM,SCPH-70012,Unknown
+REC-180,Console,PS2 SLIM,SCPH-77001,Unknown
+REC-181,Console,PS2 SLIM,SCPH-77001,Unknown
+REC-182,Console,PS2 SLIM,SCPH-77001,Disk Error
+REC-183,Console,PS2 SLIM,SCPH-70012,Video Error
+REC-184,Console,PS2 SLIM,SCPH-79001,Disk Error
+REC-185,Console,PS2 SLIM,SCPH-70012,Disk Error
+REC-186,Console,PS2 SLIM,SCPH-90001,Disk Error
+REC-187,Console,PS2 SLIM,SCPH-70012,Disk Error
+REC-188,Console,PS2 SLIM,SCPH-70012,Video Error
+REC-189,Console,PS2 SLIM,SCPH-70012,PSU Error
+REC-190,Console,PS2 SLIM,SCPH-70001,Disk Error
+REC-191,Console,PS2 SLIM,SCPH-70012,Video Error
+REC-192,Console,PS2 SLIM,SCPH-70012,Unknown
+REC-193,Console,PS2 SLIM,SCPH-70012,Unknown
+REC-194,Console,PS2 SLIM,SCPH-77001,Unknown
+REC-195,Console,PS3,CBEH1000,Unknown
+REC-196,Console,PS3,CBEH1000,Disk Error
+REC-197,Console,PS3,CECH-2001A,Disk Error / USB Error
+REC-198,Console,PS3,CECH-3001A,PSU Error
+REC-199,Console,PS3,CECH-4001B,Unknown
+REC-200,Console,PS4,CUH-2215B,Update Error
+REC-201,Console,PsOne,SCPH-101,Disk Error
+REC-202,Console,PsOne,SCPH-101,Disk Error
+REC-203,Console,PsOne,SCPH-101,Missing Screws
+REC-204,Console,PsOne,SCPH-101,Unknown
+REC-205,Console,PsOne,SCPH-101,Video Error
+REC-206,Console,Sega Genesis,MK-1631,Unknown
+REC-207,Console,Xbox OG Xbox,Unknown,Unknown
+REC-208,Console,Xbox OG Xbox,Unknown,PSU Issue
+REC-209,Console,Xbox OG Xbox,,Tray Issue
+REC-210,Console,Xbox OG Xbox,,Tray Issue
+REC-211,Console,Xbox OG Xbox,,Disk Issue
+REC-212,Console,Xbox OG Xbox,,Disk Issue
+REC-213,Console,Xbox OG Xbox,,Unknown
+REC-214,Console,Xbox OG Xbox,,Disk Issue
+REC-215,Console,Xbox OG Xbox,,PSU Issue
+REC-216,Console,Xbox OG Xbox,,Disk Issue
+REC-217,Console,Xbox OG Xbox,,PSU Issue
+REC-218,Console,Xbox OG Xbox,,Works
+REC-219,Console,Xbox OG Xbox,,PSU Issue
+REC-220,Console,Xbox OG Xbox,,Tray Issue
+REC-221,Console,Xbox OG Xbox,,Tray Issue
+REC-222,Console,Xbox OG Xbox,,PSU Issue
+REC-223,Console,Xbox OG Xbox,,Tray Issue
+REC-224,Console,Xbox OG Xbox,,PSU Issue
+REC-225,Console,Xbox360,Jasper,Disk Error
+REC-226,Console,Xbox360,Trinity,RROD
+REC-227,Console,Xbox360,Jasper,Tray Error
+REC-228,Console,Xbox360,Zephyr,Unknown
+REC-229,Console,Xbox360,Falcon,RROD
+REC-230,Console,Xbox360,Jasper,Tray Error
+REC-231,Console,Xbox360,Xenon,Unknown
+REC-232,Console,Xbox360,Xenon,Unknown
+REC-233,Console,Xbox360,Falcon,Disk Error
+REC-234,Console,Xbox360,Falcon,Tray Error
+REC-235,Console,Xbox360,Xenon,Unknown
+REC-236,Console,Xbox360,Jasper,Tray Error
+REC-237,Console,Xbox360,Xenon,Tray Error
+REC-238,Console,Xbox360,Xenon,Unknown
+REC-239,Console,Xbox360,Xenon,RROD
+REC-240,Console,Xbox360,Falcon,Tray Error
+REC-241,Console,Xbox360,Falcon,RROD
