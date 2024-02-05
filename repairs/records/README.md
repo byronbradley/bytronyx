@@ -6,3 +6,4 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 
 | Record | Device | Model | Result |
 | --- | --- | --- | --- |
+| [EX-016](EX-016.md) | PS1 | SCPH-1001 | Repaired |
