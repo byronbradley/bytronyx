@@ -6,4 +6,5 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 
 | Record | Device | Model | Result |
 | --- | --- | --- | --- |
+| [EX-059](records/EX-059.md) | PS2 FAT | SCPH-35001 | Repaired |
 | [EX-016](records/EX-016.md) | PS1 | SCPH-1001 | Repaired |
