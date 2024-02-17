@@ -9,3 +9,4 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-059](records/EX-059.md) | PS2 FAT | SCPH-35001 | Repaired |
 | [EX-223](records/EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-016](records/EX-016.md) | PS1 | SCPH-1001 | Repaired |
+| [EX-098](records/EX-098.md) | PS one | SCPH-101 | Repaired |
