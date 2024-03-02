@@ -9,6 +9,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-193](EX-193.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-050](EX-050.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-063](EX-063.md) | PS2 FAT | SCPH-30001 | Repaired |
+| [EX-189](EX-189.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-059](EX-059.md) | PS2 FAT | SCPH-35001 | Repaired |
 | [EX-238](EX-238.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-223](EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
