@@ -17,3 +17,4 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-223](records/EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-016](records/EX-016.md) | PS1 | SCPH-1001 | Repaired |
 | [EX-098](records/EX-098.md) | PS one | SCPH-101 | Repaired |
+| [EX-121](records/EX-121.md) | Xbox 360 | Trinity | Repaired |
