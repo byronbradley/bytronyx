@@ -22,3 +22,4 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-016](EX-016.md) | PS1 | SCPH-1001 | Repaired |
 | [EX-098](EX-098.md) | PS one | SCPH-101 | Repaired |
 | [EX-121](EX-121.md) | Xbox 360 | Trinity | Repaired |
+| [EX-139](EX-139.md) | Xbox 360 Headset | Not listed | Repaired |
