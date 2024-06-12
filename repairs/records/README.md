@@ -28,6 +28,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-238](EX-238.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-223](EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-016](EX-016.md) | PS1 | SCPH-1001 | Repaired |
+| [EX-103](EX-103.md) | Original Xbox | Not listed | Repaired |
 | [EX-098](EX-098.md) | PS one | SCPH-101 | Repaired |
 | [EX-190](EX-190.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-121](EX-121.md) | Xbox 360 | Trinity | Repaired |
