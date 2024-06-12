@@ -26,6 +26,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-018](records/EX-018.md) | PS1 | SCPH-1001 | Tested working |
 | [EX-059](records/EX-059.md) | PS2 FAT | SCPH-35001 | Repaired |
 | [EX-238](records/EX-238.md) | Xbox 360 Controller White | Not listed | Repaired |
+| [EX-054](records/EX-054.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-223](records/EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-016](records/EX-016.md) | PS1 | SCPH-1001 | Repaired |
 | [EX-103](records/EX-103.md) | Original Xbox | Not listed | Repaired |
