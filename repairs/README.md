@@ -15,6 +15,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-050](records/EX-050.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-178](records/EX-178.md) | PlayStation DualShock 1 | Not listed | Repaired |
 | [EX-063](records/EX-063.md) | PS2 FAT | SCPH-30001 | Repaired |
+| [EX-058](records/EX-058.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-076](records/EX-076.md) | PS2 SLIM | SCPH-77001 | Repaired |
 | [EX-030](records/EX-030.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-048](records/EX-048.md) | PS2 FAT | SCPH-30001 | Repaired |
