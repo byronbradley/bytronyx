@@ -21,6 +21,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-030](records/EX-030.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-048](records/EX-048.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-002](records/EX-002.md) | Nintendo GameCube | DOL-001 | Repaired |
+| [EX-222](records/EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-189](records/EX-189.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-143](records/EX-143.md) | Xbox 360 Play & Charge Cable | Not listed | Serviced |
 | [EX-235](records/EX-235.md) | Xbox 360 Controller (Purple & Black) | Not listed | Repaired |
