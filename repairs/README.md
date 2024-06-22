@@ -19,6 +19,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-058](records/EX-058.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-076](records/EX-076.md) | PS2 SLIM | SCPH-77001 | Repaired |
 | [EX-030](records/EX-030.md) | PS1 | SCPH-7501 | Repaired |
+| [EX-071](records/EX-071.md) | PS2 SLIM | Not listed | Repaired |
 | [EX-048](records/EX-048.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-002](records/EX-002.md) | Nintendo GameCube | DOL-001 | Repaired |
 | [EX-222](records/EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
