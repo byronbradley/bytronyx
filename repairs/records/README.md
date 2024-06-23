@@ -22,6 +22,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-071](EX-071.md) | PS2 SLIM | Not listed | Repaired |
 | [EX-048](EX-048.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-002](EX-002.md) | Nintendo GameCube | DOL-001 | Repaired |
+| [EX-181](EX-181.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-222](EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-189](EX-189.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-143](EX-143.md) | Xbox 360 Play & Charge Cable | Not listed | Serviced |
