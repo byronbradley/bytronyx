@@ -36,6 +36,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-054](records/EX-054.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-210](records/EX-210.md) | Wii Remote | Not listed | Repaired |
 | [EX-223](records/EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
+| [EX-200](records/EX-200.md) | Wico Command Control Joystick | Not listed | Repaired |
 | [EX-016](records/EX-016.md) | PS1 | SCPH-1001 | Repaired |
 | [EX-172](records/EX-172.md) | GameCube Controller (MadCatz) | Not listed | Repaired |
 | [EX-103](records/EX-103.md) | Original Xbox | Not listed | Repaired |
