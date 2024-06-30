@@ -39,6 +39,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-223](records/EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-200](records/EX-200.md) | Wico Command Control Joystick | Not listed | Repaired |
 | [EX-016](records/EX-016.md) | PS1 | SCPH-1001 | Repaired |
+| [EX-241](records/EX-241.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-172](records/EX-172.md) | GameCube Controller (MadCatz) | Not listed | Repaired |
 | [EX-103](records/EX-103.md) | Original Xbox | Not listed | Repaired |
 | [EX-098](records/EX-098.md) | PS one | SCPH-101 | Repaired |
