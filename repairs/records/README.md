@@ -11,6 +11,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-060](EX-060.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-170](EX-170.md) | GameCube Controller (MadCatz) | Not listed | Repaired |
 | [EX-193](EX-193.md) | PlayStation DualShock 2 | Not listed | Repaired |
+| [EX-147](EX-147.md) | Xbox 360 Power Cable | Not listed | Serviced |
 | [EX-009](EX-009.md) | SNES | SNS-001 | Repaired |
 | [EX-142](EX-142.md) | Xbox 360 Play & Charge Cable | Not listed | Repaired |
 | [EX-050](EX-050.md) | PS2 FAT | SCPH-30001 | Repaired |
