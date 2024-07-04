@@ -45,6 +45,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-241](records/EX-241.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-172](records/EX-172.md) | GameCube Controller (MadCatz) | Not listed | Repaired |
 | [EX-103](records/EX-103.md) | Original Xbox | Not listed | Repaired |
+| [EX-080](records/EX-080.md) | PS2 SLIM | SCPH-70012 | Repaired |
 | [EX-098](records/EX-098.md) | PS one | SCPH-101 | Repaired |
 | [EX-190](records/EX-190.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-121](records/EX-121.md) | Xbox 360 | Trinity | Repaired |
