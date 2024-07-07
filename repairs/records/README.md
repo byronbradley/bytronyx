@@ -18,6 +18,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-142](EX-142.md) | Xbox 360 Play & Charge Cable | Not listed | Repaired |
 | [EX-050](EX-050.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-114](EX-114.md) | Original Xbox | Not listed | Repaired |
+| [EX-068](EX-068.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-178](EX-178.md) | PlayStation DualShock 1 | Not listed | Repaired |
 | [EX-063](EX-063.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-086](EX-086.md) | PS2 SLIM | SCPH-70012 | Repaired |
