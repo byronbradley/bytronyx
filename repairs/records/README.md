@@ -27,6 +27,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-058](EX-058.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-076](EX-076.md) | PS2 SLIM | SCPH-77001 | Repaired |
 | [EX-030](EX-030.md) | PS1 | SCPH-7501 | Repaired |
+| [EX-140](EX-140.md) | Xbox 360 Headset | Not listed | Repaired |
 | [EX-071](EX-071.md) | PS2 SLIM | Not listed | Repaired |
 | [EX-048](EX-048.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-002](EX-002.md) | Nintendo GameCube | DOL-001 | Repaired |
