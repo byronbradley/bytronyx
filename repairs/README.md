@@ -43,6 +43,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-133](records/EX-133.md) | Xbox 360 | Xenon | Repaired |
 | [EX-087](records/EX-087.md) | PS2 SLIM | SCPH-70012 | Tested working |
 | [EX-018](records/EX-018.md) | PS1 | SCPH-1001 | Tested working |
+| [EX-197](records/EX-197.md) | Sega Genesis Controller | Not listed | Repaired |
 | [EX-059](records/EX-059.md) | PS2 FAT | SCPH-35001 | Repaired |
 | [EX-238](records/EX-238.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-100](records/EX-100.md) | PS one | SCPH-101 | Repaired |
