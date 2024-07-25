@@ -31,6 +31,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-109](records/EX-109.md) | Original Xbox | Not listed | Repaired |
 | [EX-242](records/EX-242.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-058](records/EX-058.md) | PS2 FAT | SCPH-39001 | Repaired |
+| [EX-012](records/EX-012.md) | NES | NES-001 | Repaired |
 | [EX-076](records/EX-076.md) | PS2 SLIM | SCPH-77001 | Repaired |
 | [EX-030](records/EX-030.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-140](records/EX-140.md) | Xbox 360 Headset | Not listed | Repaired |
