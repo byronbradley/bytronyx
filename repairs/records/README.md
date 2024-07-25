@@ -57,6 +57,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-100](EX-100.md) | PS one | SCPH-101 | Repaired |
 | [EX-054](EX-054.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-210](EX-210.md) | Wii Remote | Not listed | Repaired |
+| [EX-187](EX-187.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-228](EX-228.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-182](EX-182.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-223](EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
