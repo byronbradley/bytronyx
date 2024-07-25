@@ -40,6 +40,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-181](records/EX-181.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-245](records/EX-245.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-222](records/EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
+| [EX-125](records/EX-125.md) | Xbox 360 | Jasper | Repaired |
 | [EX-189](records/EX-189.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-143](records/EX-143.md) | Xbox 360 Play & Charge Cable | Not listed | Serviced |
 | [EX-235](records/EX-235.md) | Xbox 360 Controller (Purple & Black) | Not listed | Repaired |
