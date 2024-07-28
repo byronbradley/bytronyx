@@ -51,6 +51,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-235](EX-235.md) | Xbox 360 Controller (Purple & Black) | Not listed | Repaired |
 | [EX-028](EX-028.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-092](EX-092.md) | PS3 | CECH-2001A | Repaired |
+| [EX-225](EX-225.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-248](EX-248.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-133](EX-133.md) | Xbox 360 | Xenon | Repaired |
 | [EX-087](EX-087.md) | PS2 SLIM | SCPH-70012 | Tested working |
