@@ -77,5 +77,6 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-190](EX-190.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-121](EX-121.md) | Xbox 360 | Trinity | Repaired |
 | [EX-029](EX-029.md) | PS1 | SCPH-7501 | Repaired |
+| [EX-208](EX-208.md) | Wii Remote | Not listed | Repaired |
 | [EX-139](EX-139.md) | Xbox 360 Headset | Not listed | Repaired |
 | [EX-024](EX-024.md) | PS1 | SCPH-7001 | Repaired |
