@@ -74,6 +74,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-172](EX-172.md) | GameCube Controller (MadCatz) | Not listed | Repaired |
 | [EX-103](EX-103.md) | Original Xbox | Not listed | Repaired |
 | [EX-080](EX-080.md) | PS2 SLIM | SCPH-70012 | Repaired |
+| [EX-213](EX-213.md) | Wii Remote | Not listed | Repaired |
 | [EX-011](EX-011.md) | NES | NES-001 | Repaired |
 | [EX-098](EX-098.md) | PS one | SCPH-101 | Repaired |
 | [EX-190](EX-190.md) | PlayStation DualShock 2 | Not listed | Repaired |
