@@ -66,6 +66,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-054](records/EX-054.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-210](records/EX-210.md) | Wii Remote | Not listed | Repaired |
 | [EX-187](records/EX-187.md) | PlayStation DualShock 2 | Not listed | Repaired |
+| [EX-205](records/EX-205.md) | Wii Nunchuk Black | Not listed | Repaired |
 | [EX-228](records/EX-228.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-182](records/EX-182.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-223](records/EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
