@@ -68,6 +68,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-187](EX-187.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-205](EX-205.md) | Wii Nunchuk Black | Not listed | Repaired |
 | [EX-228](EX-228.md) | Xbox 360 Controller | Not listed | Repaired |
+| [EX-159](EX-159.md) | Atari 2600 Driving Controller (CX20) | CX20 | Repaired |
 | [EX-182](EX-182.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-223](EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-200](EX-200.md) | Wico Command Control Joystick | Not listed | Repaired |
