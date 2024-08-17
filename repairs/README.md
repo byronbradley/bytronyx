@@ -54,6 +54,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-143](records/EX-143.md) | Xbox 360 Play & Charge Cable | Not listed | Serviced |
 | [EX-235](records/EX-235.md) | Xbox 360 Controller (Purple & Black) | Not listed | Repaired |
 | [EX-028](records/EX-028.md) | PS1 | SCPH-7501 | Repaired |
+| [EX-207](records/EX-207.md) | Wii Nunchuk Red | Not listed | Repaired |
 | [EX-092](records/EX-092.md) | PS3 | CECH-2001A | Repaired |
 | [EX-225](records/EX-225.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-248](records/EX-248.md) | Xbox 360 Controller White | Not listed | Repaired |
