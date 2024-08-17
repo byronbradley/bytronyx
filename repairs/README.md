@@ -76,6 +76,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-223](records/EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-200](records/EX-200.md) | Wico Command Control Joystick | Not listed | Repaired |
 | [EX-016](records/EX-016.md) | PS1 | SCPH-1001 | Repaired |
+| [EX-085](records/EX-085.md) | PS2 SLIM | SCPH-70001 | Repaired |
 | [EX-241](records/EX-241.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-195](records/EX-195.md) | RGA 1170 Flight Joystick | RGA 1170 | Repaired |
 | [EX-172](records/EX-172.md) | GameCube Controller (MadCatz) | Not listed | Repaired |
