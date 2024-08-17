@@ -23,6 +23,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-188](records/EX-188.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-211](records/EX-211.md) | Wii Remote | Not listed | Repaired |
 | [EX-142](records/EX-142.md) | Xbox 360 Play & Charge Cable | Not listed | Repaired |
+| [EX-119](records/EX-119.md) | Original Xbox | Not listed | Repaired |
 | [EX-050](records/EX-050.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-114](records/EX-114.md) | Original Xbox | Not listed | Repaired |
 | [EX-137](records/EX-137.md) | Xbox 360 Breakaway Cable | Not listed | Serviced |
