@@ -76,6 +76,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-182](records/EX-182.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-223](records/EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-200](records/EX-200.md) | Wico Command Control Joystick | Not listed | Repaired |
+| [EX-062](records/EX-062.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-016](records/EX-016.md) | PS1 | SCPH-1001 | Repaired |
 | [EX-085](records/EX-085.md) | PS2 SLIM | SCPH-70001 | Repaired |
 | [EX-241](records/EX-241.md) | Xbox 360 Controller White | Not listed | Repaired |
