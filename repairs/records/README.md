@@ -61,6 +61,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-028](EX-028.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-207](EX-207.md) | Wii Nunchuk Red | Not listed | Repaired |
 | [EX-184](EX-184.md) | PlayStation DualShock 2 | Not listed | Repaired |
+| [EX-138](EX-138.md) | Xbox 360 Breakaway Cable | Not listed | Repaired |
 | [EX-092](EX-092.md) | PS3 | CECH-2001A | Repaired |
 | [EX-225](EX-225.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-248](EX-248.md) | Xbox 360 Controller White | Not listed | Repaired |
