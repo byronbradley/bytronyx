@@ -52,6 +52,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-181](records/EX-181.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-245](records/EX-245.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-222](records/EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
+| [EX-038](records/EX-038.md) | PS1 | SCPH-9001 | Repaired |
 | [EX-125](records/EX-125.md) | Xbox 360 | Jasper | Repaired |
 | [EX-079](records/EX-079.md) | PS2 SLIM | SCPH-79001 | Repaired |
 | [EX-033](records/EX-033.md) | PS1 | SCPH-7501 | Repaired |
