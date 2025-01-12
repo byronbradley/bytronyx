@@ -50,6 +50,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-002](EX-002.md) | Nintendo GameCube | DOL-001 | Repaired |
 | [EX-204](EX-204.md) | Wii Nunchuk | Not listed | Repaired |
 | [EX-181](EX-181.md) | PlayStation DualShock 2 | Not listed | Repaired |
+| [EX-158](EX-158.md) | Atari 2600 Driving Controller (CX20) | CX20 | Repaired |
 | [EX-245](EX-245.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-222](EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-038](EX-038.md) | PS1 | SCPH-9001 | Repaired |
