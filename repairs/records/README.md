@@ -71,6 +71,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-202](EX-202.md) | Wii Nunchuk | Not listed | Repaired |
 | [EX-133](EX-133.md) | Xbox 360 | Xenon | Repaired |
 | [EX-087](EX-087.md) | PS2 SLIM | SCPH-70012 | Tested working |
+| [EX-041](EX-041.md) | PS1 | SCPH-9001 | Swapped whole unit |
 | [EX-018](EX-018.md) | PS1 | SCPH-1001 | Tested working |
 | [EX-220](EX-220.md) | Xbox 360 Chatpad Controller | Not listed | Repaired |
 | [EX-197](EX-197.md) | Sega Genesis Controller | Not listed | Repaired |
