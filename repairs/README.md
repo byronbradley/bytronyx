@@ -52,6 +52,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-204](records/EX-204.md) | Wii Nunchuk | Not listed | Repaired |
 | [EX-181](records/EX-181.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-158](records/EX-158.md) | Atari 2600 Driving Controller (CX20) | CX20 | Repaired |
+| [EX-135](records/EX-135.md) | Xbox 360 | Falcon | Repaired |
 | [EX-245](records/EX-245.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-222](records/EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-038](records/EX-038.md) | PS1 | SCPH-9001 | Repaired |
