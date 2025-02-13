@@ -29,6 +29,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-004](records/EX-004.md) | Nintendo GameCube | DOL-001 | Repaired |
 | [EX-160](records/EX-160.md) | Atari 2600 Paddle Controller | Not listed | Repaired |
 | [EX-114](records/EX-114.md) | Original Xbox | Not listed | Repaired |
+| [EX-183](records/EX-183.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-137](records/EX-137.md) | Xbox 360 Breakaway Cable | Not listed | Serviced |
 | [EX-068](records/EX-068.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-022](records/EX-022.md) | PS1 | SCPH-5501 | Repaired |
