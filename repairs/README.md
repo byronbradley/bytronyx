@@ -66,6 +66,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-189](records/EX-189.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-143](records/EX-143.md) | Xbox 360 Play & Charge Cable | Not listed | Serviced |
 | [EX-235](records/EX-235.md) | Xbox 360 Controller (Purple & Black) | Not listed | Repaired |
+| [EX-120](records/EX-120.md) | Xbox 360 | Jasper | Repaired |
 | [EX-028](records/EX-028.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-207](records/EX-207.md) | Wii Nunchuk Red | Not listed | Repaired |
 | [EX-184](records/EX-184.md) | PlayStation DualShock 2 | Not listed | Repaired |
