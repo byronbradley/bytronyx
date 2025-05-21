@@ -61,6 +61,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-222](EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-015](EX-015.md) | PS1 | SCPH-1001 | Repaired |
 | [EX-038](EX-038.md) | PS1 | SCPH-9001 | Repaired |
+| [EX-148](EX-148.md) | Xbox 360 Power Cable | Not listed | Repaired |
 | [EX-125](EX-125.md) | Xbox 360 | Jasper | Repaired |
 | [EX-079](EX-079.md) | PS2 SLIM | SCPH-79001 | Repaired |
 | [EX-033](EX-033.md) | PS1 | SCPH-7501 | Repaired |
