@@ -18,6 +18,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-037](records/EX-037.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-170](records/EX-170.md) | GameCube Controller (MadCatz) | Not listed | Repaired |
 | [EX-193](records/EX-193.md) | PlayStation DualShock 2 | Not listed | Repaired |
+| [EX-124](records/EX-124.md) | Xbox 360 | Falcon | Swapped whole unit |
 | [EX-147](records/EX-147.md) | Xbox 360 Power Cable | Not listed | Serviced |
 | [EX-009](records/EX-009.md) | SNES | SNS-001 | Repaired |
 | [EX-101](records/EX-101.md) | Sega Genesis | MK-1631 | Repaired |
