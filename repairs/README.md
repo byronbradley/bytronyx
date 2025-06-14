@@ -89,6 +89,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-197](records/EX-197.md) | Sega Genesis Controller | Not listed | Repaired |
 | [EX-036](records/EX-036.md) | PS1 | SCPH-7501 | Tested working |
 | [EX-059](records/EX-059.md) | PS2 FAT | SCPH-35001 | Repaired |
+| [EX-215](records/EX-215.md) | Wii Remote Black | Not listed | Repaired |
 | [EX-238](records/EX-238.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-100](records/EX-100.md) | PS one | SCPH-101 | Repaired |
 | [EX-054](records/EX-054.md) | PS2 FAT | SCPH-30001 | Repaired |
