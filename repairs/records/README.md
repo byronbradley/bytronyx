@@ -97,6 +97,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-210](EX-210.md) | Wii Remote | Not listed | Repaired |
 | [EX-187](EX-187.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-141](EX-141.md) | Xbox 360 Play & Charge Cable | Not listed | Serviced |
+| [EX-095](EX-095.md) | PS4 | CUH-2215B | Repaired |
 | [EX-026](EX-026.md) | PS1 | SCPH-7001 | Repaired |
 | [EX-205](EX-205.md) | Wii Nunchuk Black | Not listed | Repaired |
 | [EX-228](EX-228.md) | Xbox 360 Controller | Not listed | Repaired |
