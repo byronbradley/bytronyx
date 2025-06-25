@@ -24,6 +24,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-147](EX-147.md) | Xbox 360 Power Cable | Not listed | Serviced |
 | [EX-009](EX-009.md) | SNES | SNS-001 | Repaired |
 | [EX-101](EX-101.md) | Sega Genesis | MK-1631 | Repaired |
+| [EX-032](EX-032.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-188](EX-188.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-211](EX-211.md) | Wii Remote | Not listed | Repaired |
 | [EX-142](EX-142.md) | Xbox 360 Play & Charge Cable | Not listed | Repaired |
