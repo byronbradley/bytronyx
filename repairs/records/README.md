@@ -22,6 +22,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-193](EX-193.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-124](EX-124.md) | Xbox 360 | Falcon | Swapped whole unit |
 | [EX-147](EX-147.md) | Xbox 360 Power Cable | Not listed | Serviced |
+| [EX-078](EX-078.md) | PS2 SLIM | SCPH-70012 | Repaired |
 | [EX-009](EX-009.md) | SNES | SNS-001 | Repaired |
 | [EX-101](EX-101.md) | Sega Genesis | MK-1631 | Repaired |
 | [EX-032](EX-032.md) | PS1 | SCPH-7501 | Repaired |
