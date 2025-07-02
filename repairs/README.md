@@ -62,6 +62,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-048](records/EX-048.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-002](records/EX-002.md) | Nintendo GameCube | DOL-001 | Repaired |
 | [EX-204](records/EX-204.md) | Wii Nunchuk | Not listed | Repaired |
+| [EX-227](records/EX-227.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-181](records/EX-181.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-158](records/EX-158.md) | Atari 2600 Driving Controller (CX20) | CX20 | Repaired |
 | [EX-135](records/EX-135.md) | Xbox 360 | Falcon | Repaired |
