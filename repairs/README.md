@@ -13,6 +13,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-088](records/EX-088.md) | PS2 SLIM | SCPH-70012 | Repaired |
 | [EX-065](records/EX-065.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-019](records/EX-019.md) | PS1 | SCPH-5501 | Repaired |
+| [EX-152](records/EX-152.md) | Atari 2600 CX40 Joystick | CX40 | Repaired |
 | [EX-129](records/EX-129.md) | Xbox 360 | Falcon | Repaired |
 | [EX-083](records/EX-083.md) | PS2 SLIM | SCPH-70012 | Repaired |
 | [EX-060](records/EX-060.md) | PS2 FAT | SCPH-39001 | Repaired |
