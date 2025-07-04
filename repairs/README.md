@@ -56,6 +56,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-145](records/EX-145.md) | Xbox 360 Power Cable | Not listed | Serviced |
 | [EX-076](records/EX-076.md) | PS2 SLIM | SCPH-77001 | Repaired |
 | [EX-030](records/EX-030.md) | PS1 | SCPH-7501 | Repaired |
+| [EX-007](records/EX-007.md) | NES | NES-001 | Repaired |
 | [EX-186](records/EX-186.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-140](records/EX-140.md) | Xbox 360 Headset | Not listed | Repaired |
 | [EX-071](records/EX-071.md) | PS2 SLIM | Not listed | Repaired |
