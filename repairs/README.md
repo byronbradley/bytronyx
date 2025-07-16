@@ -51,6 +51,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-242](records/EX-242.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-219](records/EX-219.md) | Wii Remote Red | Not listed | Repaired |
 | [EX-104](records/EX-104.md) | Original Xbox | Not listed | Repaired |
+| [EX-035](records/EX-035.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-127](records/EX-127.md) | Xbox 360 | Xenon | Repaired |
 | [EX-058](records/EX-058.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-012](records/EX-012.md) | NES | NES-001 | Repaired |
