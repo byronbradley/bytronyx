@@ -76,6 +76,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-066](records/EX-066.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-245](records/EX-245.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-222](records/EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
+| [EX-199](records/EX-199.md) | Spider-Man Plug & Play Controller | Not listed | Repaired |
 | [EX-015](records/EX-015.md) | PS1 | SCPH-1001 | Repaired |
 | [EX-038](records/EX-038.md) | PS1 | SCPH-9001 | Repaired |
 | [EX-240](records/EX-240.md) | Xbox 360 Controller White | Not listed | Repaired |
