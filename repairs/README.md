@@ -138,6 +138,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-241](records/EX-241.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-195](records/EX-195.md) | RGA 1170 Flight Joystick | RGA 1170 | Repaired |
 | [EX-126](records/EX-126.md) | Xbox 360 | Xenon | Tested working |
+| [EX-218](records/EX-218.md) | Wii Remote Blue | Not listed | Repaired |
 | [EX-149](records/EX-149.md) | Atari 2600 CX40 Joystick | CX40 | Repaired |
 | [EX-172](records/EX-172.md) | GameCube Controller (MadCatz) | Not listed | Repaired |
 | [EX-103](records/EX-103.md) | Original Xbox | Not listed | Repaired |
