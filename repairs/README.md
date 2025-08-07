@@ -16,6 +16,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-065](records/EX-065.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-019](records/EX-019.md) | PS1 | SCPH-5501 | Repaired |
 | [EX-221](records/EX-221.md) | Xbox 360 Controller | Not listed | Repaired |
+| [EX-175](records/EX-175.md) | NES Advantage Controller | Not listed | Repaired |
 | [EX-152](records/EX-152.md) | Atari 2600 CX40 Joystick | CX40 | Repaired |
 | [EX-129](records/EX-129.md) | Xbox 360 | Falcon | Repaired |
 | [EX-083](records/EX-083.md) | PS2 SLIM | SCPH-70012 | Repaired |
