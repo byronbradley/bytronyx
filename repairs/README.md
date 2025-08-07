@@ -88,6 +88,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-148](records/EX-148.md) | Xbox 360 Power Cable | Not listed | Repaired |
 | [EX-125](records/EX-125.md) | Xbox 360 | Jasper | Repaired |
 | [EX-079](records/EX-079.md) | PS2 SLIM | SCPH-79001 | Repaired |
+| [EX-102](records/EX-102.md) | Original Xbox | Not listed | Swapped whole unit |
 | [EX-033](records/EX-033.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-189](records/EX-189.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-212](records/EX-212.md) | Wii Remote | Not listed | Repaired |
