@@ -128,6 +128,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-072](records/EX-072.md) | PS2 SLIM | SCPH-75001 | Swapped whole unit |
 | [EX-095](records/EX-095.md) | PS4 | CUH-2215B | Repaired |
 | [EX-026](records/EX-026.md) | PS1 | SCPH-7001 | Repaired |
+| [EX-118](records/EX-118.md) | Original Xbox | Not listed | Repaired |
 | [EX-205](records/EX-205.md) | Wii Nunchuk Black | Not listed | Repaired |
 | [EX-228](records/EX-228.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-159](records/EX-159.md) | Atari 2600 Driving Controller (CX20) | CX20 | Repaired |
