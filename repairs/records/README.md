@@ -138,6 +138,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-136](EX-136.md) | Xbox 360 | Falcon | Repaired |
 | [EX-223](EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-021](EX-021.md) | PS1 | SCPH-5501 | Repaired |
+| [EX-246](EX-246.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-177](EX-177.md) | Nyko Wireless Nunchuk | Not listed | Repaired |
 | [EX-200](EX-200.md) | Wico Command Control Joystick | Not listed | Repaired |
 | [EX-062](EX-062.md) | PS2 FAT | SCPH-39001 | Repaired |
