@@ -23,6 +23,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-083](EX-083.md) | PS2 SLIM | SCPH-70012 | Repaired |
 | [EX-060](EX-060.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-037](EX-037.md) | PS1 | SCPH-7501 | Repaired |
+| [EX-014](EX-014.md) | PS1 | SCPH-1001 | Repaired |
 | [EX-216](EX-216.md) | Wii Remote Black | Not listed | Repaired |
 | [EX-170](EX-170.md) | GameCube Controller (MadCatz) | Not listed | Repaired |
 | [EX-193](EX-193.md) | PlayStation DualShock 2 | Not listed | Repaired |
