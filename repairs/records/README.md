@@ -60,6 +60,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-109](EX-109.md) | Original Xbox | Not listed | Repaired |
 | [EX-242](EX-242.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-219](EX-219.md) | Wii Remote Red | Not listed | Repaired |
+| [EX-173](EX-173.md) | GameCube Controller Orange | Not listed | Repaired |
 | [EX-104](EX-104.md) | Original Xbox | Not listed | Repaired |
 | [EX-035](EX-035.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-127](EX-127.md) | Xbox 360 | Xenon | Repaired |
