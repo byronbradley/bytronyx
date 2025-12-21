@@ -32,6 +32,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-078](records/EX-078.md) | PS2 SLIM | SCPH-70012 | Repaired |
 | [EX-009](records/EX-009.md) | SNES | SNS-001 | Repaired |
 | [EX-101](records/EX-101.md) | Sega Genesis | MK-1631 | Repaired |
+| [EX-234](records/EX-234.md) | Xbox 360 Controller (PowerA Green) | Not listed | Repaired |
 | [EX-032](records/EX-032.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-055](records/EX-055.md) | PS2 FAT | SCPH-50001 | Repaired |
 | [EX-188](records/EX-188.md) | PlayStation DualShock 2 | Not listed | Repaired |
