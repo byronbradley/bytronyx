@@ -47,6 +47,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-160](EX-160.md) | Atari 2600 Paddle Controller | Not listed | Repaired |
 | [EX-114](EX-114.md) | Original Xbox | Not listed | Repaired |
 | [EX-183](EX-183.md) | PlayStation DualShock 2 | Not listed | Repaired |
+| [EX-045](EX-045.md) | PS2 FAT | SCPH-50001 | Repaired |
 | [EX-137](EX-137.md) | Xbox 360 Breakaway Cable | Not listed | Serviced |
 | [EX-068](EX-068.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-022](EX-022.md) | PS1 | SCPH-5501 | Repaired |
