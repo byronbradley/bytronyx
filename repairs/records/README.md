@@ -168,6 +168,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-213](EX-213.md) | Wii Remote | Not listed | Repaired |
 | [EX-011](EX-011.md) | NES | NES-001 | Repaired |
 | [EX-098](EX-098.md) | PS one | SCPH-101 | Repaired |
+| [EX-167](EX-167.md) | GameCube Controller | Not listed | Repaired |
 | [EX-190](EX-190.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-121](EX-121.md) | Xbox 360 | Trinity | Repaired |
 | [EX-052](EX-052.md) | PS2 FAT | SCPH-39001 | Repaired |
