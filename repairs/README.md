@@ -88,6 +88,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-135](records/EX-135.md) | Xbox 360 | Falcon | Repaired |
 | [EX-089](records/EX-089.md) | PS2 SLIM | SCPH-77001 | Repaired |
 | [EX-066](records/EX-066.md) | PS2 FAT | SCPH-30001 | Repaired |
+| [EX-020](records/EX-020.md) | PS1 | SCPH-5501 | Repaired |
 | [EX-245](records/EX-245.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-222](records/EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-107](records/EX-107.md) | Original Xbox | Not listed | Repaired |
