@@ -148,6 +148,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-159](records/EX-159.md) | Atari 2600 Driving Controller (CX20) | CX20 | Repaired |
 | [EX-182](records/EX-182.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-113](records/EX-113.md) | Original Xbox | Not listed | Tested working |
+| [EX-090](records/EX-090.md) | PS3 | CBEH1000 | Tested working |
 | [EX-136](records/EX-136.md) | Xbox 360 | Falcon | Repaired |
 | [EX-223](records/EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-021](records/EX-021.md) | PS1 | SCPH-5501 | Repaired |
