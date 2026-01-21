@@ -38,6 +38,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-188](records/EX-188.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-211](records/EX-211.md) | Wii Remote | Not listed | Repaired |
 | [EX-142](records/EX-142.md) | Xbox 360 Play & Charge Cable | Not listed | Repaired |
+| [EX-165](records/EX-165.md) | Atari 2600 Space Age Joystick | Not listed | Repaired |
 | [EX-096](records/EX-096.md) | PS one | SCPH-101 | Repaired |
 | [EX-027](records/EX-027.md) | PS1 | SCPH-7001 | Repaired |
 | [EX-119](records/EX-119.md) | Original Xbox | Not listed | Repaired |
