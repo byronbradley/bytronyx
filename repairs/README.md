@@ -17,6 +17,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-019](records/EX-019.md) | PS1 | SCPH-5501 | Repaired |
 | [EX-198](records/EX-198.md) | Sega Genesis Controller | Not listed | Repaired |
 | [EX-221](records/EX-221.md) | Xbox 360 Controller | Not listed | Repaired |
+| [EX-244](records/EX-244.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-175](records/EX-175.md) | NES Advantage Controller | Not listed | Repaired |
 | [EX-152](records/EX-152.md) | Atari 2600 CX40 Joystick | CX40 | Repaired |
 | [EX-129](records/EX-129.md) | Xbox 360 | Falcon | Repaired |
