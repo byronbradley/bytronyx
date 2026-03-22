@@ -117,6 +117,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-005](records/EX-005.md) | NES | NES-001 | Repaired |
 | [EX-028](records/EX-028.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-207](records/EX-207.md) | Wii Nunchuk Red | Not listed | Repaired |
+| [EX-161](records/EX-161.md) | Atari 2600 Paddle Controller | Not listed | Repaired |
 | [EX-184](records/EX-184.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-138](records/EX-138.md) | Xbox 360 Breakaway Cable | Not listed | Repaired |
 | [EX-092](records/EX-092.md) | PS3 | CECH-2001A | Repaired |
