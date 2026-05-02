@@ -107,6 +107,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-079](EX-079.md) | PS2 SLIM | SCPH-79001 | Repaired |
 | [EX-102](EX-102.md) | Original Xbox | Not listed | Swapped whole unit |
 | [EX-033](EX-033.md) | PS1 | SCPH-7501 | Repaired |
+| [EX-056](EX-056.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-189](EX-189.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-212](EX-212.md) | Wii Remote | Not listed | Repaired |
 | [EX-143](EX-143.md) | Xbox 360 Play & Charge Cable | Not listed | Serviced |
