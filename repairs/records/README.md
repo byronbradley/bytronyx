@@ -62,6 +62,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-155](EX-155.md) | Atari 2600 CX40 Joystick | CX40 | Repaired |
 | [EX-017](EX-017.md) | PS1 | SCPH-1001 | Repaired |
 | [EX-109](EX-109.md) | Original Xbox | Not listed | Repaired |
+| [EX-040](EX-040.md) | PS1 | SCPH-9001 | Repaired |
 | [EX-242](EX-242.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-196](EX-196.md) | Sega Genesis Controller | Not listed | Repaired |
 | [EX-219](EX-219.md) | Wii Remote Red | Not listed | Repaired |
