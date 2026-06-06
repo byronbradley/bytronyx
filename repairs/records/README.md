@@ -84,6 +84,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-140](EX-140.md) | Xbox 360 Headset | Not listed | Repaired |
 | [EX-163](EX-163.md) | Atari 2600 Paddle Controller | Not listed | Repaired |
 | [EX-071](EX-071.md) | PS2 SLIM | Not listed | Repaired |
+| [EX-025](EX-025.md) | PS1 | SCPH-7001 | Repaired |
 | [EX-048](EX-048.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-002](EX-002.md) | Nintendo GameCube | DOL-001 | Repaired |
 | [EX-204](EX-204.md) | Wii Nunchuk | Not listed | Repaired |
