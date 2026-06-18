@@ -127,6 +127,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-138](EX-138.md) | Xbox 360 Breakaway Cable | Not listed | Repaired |
 | [EX-092](EX-092.md) | PS3 | CECH-2001A | Repaired |
 | [EX-225](EX-225.md) | Xbox 360 Controller | Not listed | Repaired |
+| [EX-046](EX-046.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-248](EX-248.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-202](EX-202.md) | Wii Nunchuk | Not listed | Repaired |
 | [EX-133](EX-133.md) | Xbox 360 | Xenon | Repaired |
