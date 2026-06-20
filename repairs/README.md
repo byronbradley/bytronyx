@@ -100,6 +100,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-222](records/EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-107](records/EX-107.md) | Original Xbox | Not listed | Repaired |
 | [EX-199](records/EX-199.md) | Spider-Man Plug & Play Controller | Not listed | Repaired |
+| [EX-130](records/EX-130.md) | Xbox 360 | Xenon | Repaired |
 | [EX-061](records/EX-061.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-084](records/EX-084.md) | PS2 SLIM | SCPH-70012 | Repaired |
 | [EX-015](records/EX-015.md) | PS1 | SCPH-1001 | Repaired |
