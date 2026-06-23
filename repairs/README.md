@@ -121,6 +121,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-120](records/EX-120.md) | Xbox 360 | Jasper | Repaired |
 | [EX-051](records/EX-051.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-005](records/EX-005.md) | NES | NES-001 | Repaired |
+| [EX-230](records/EX-230.md) | Xbox 360 Controller Clear | Not listed | Repaired |
 | [EX-028](records/EX-028.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-207](records/EX-207.md) | Wii Nunchuk Red | Not listed | Repaired |
 | [EX-161](records/EX-161.md) | Atari 2600 Paddle Controller | Not listed | Repaired |
