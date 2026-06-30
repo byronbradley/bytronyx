@@ -74,6 +74,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-058](records/EX-058.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-012](records/EX-012.md) | NES | NES-001 | Repaired |
 | [EX-237](records/EX-237.md) | Xbox 360 Controller White | Not listed | Repaired |
+| [EX-122](records/EX-122.md) | Xbox 360 | Jasper | Repaired |
 | [EX-145](records/EX-145.md) | Xbox 360 Power Cable | Not listed | Serviced |
 | [EX-076](records/EX-076.md) | PS2 SLIM | SCPH-77001 | Repaired |
 | [EX-030](records/EX-030.md) | PS1 | SCPH-7501 | Repaired |
