@@ -150,6 +150,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-082](EX-082.md) | PS2 SLIM | SCPH-70012 | Repaired |
 | [EX-215](EX-215.md) | Wii Remote Black | Not listed | Repaired |
 | [EX-238](EX-238.md) | Xbox 360 Controller White | Not listed | Repaired |
+| [EX-146](EX-146.md) | Xbox 360 Power Cable | Not listed | Repaired |
 | [EX-100](EX-100.md) | PS one | SCPH-101 | Repaired |
 | [EX-077](EX-077.md) | PS2 SLIM | SCPH-77001 | Repaired |
 | [EX-054](EX-054.md) | PS2 FAT | SCPH-30001 | Repaired |
