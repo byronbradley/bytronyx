@@ -201,6 +201,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-052](EX-052.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-075](EX-075.md) | PS2 SLIM | SCPH-77001 | Tested working |
 | [EX-162](EX-162.md) | Atari 2600 Paddle Controller | Not listed | Repaired |
+| [EX-231](EX-231.md) | Xbox 360 Controller (MadCatz) | Not listed | Repaired |
 | [EX-029](EX-029.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-208](EX-208.md) | Wii Remote | Not listed | Repaired |
 | [EX-139](EX-139.md) | Xbox 360 Headset | Not listed | Repaired |
