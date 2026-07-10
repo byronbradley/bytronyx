@@ -134,6 +134,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-225](records/EX-225.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-046](records/EX-046.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-248](records/EX-248.md) | Xbox 360 Controller White | Not listed | Repaired |
+| [EX-179](records/EX-179.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-202](records/EX-202.md) | Wii Nunchuk | Not listed | Repaired |
 | [EX-133](records/EX-133.md) | Xbox 360 | Xenon | Repaired |
 | [EX-156](records/EX-156.md) | Atari 2600 CX40 Joystick | CX40 | Repaired |
