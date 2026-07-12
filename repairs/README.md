@@ -195,6 +195,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-103](records/EX-103.md) | Original Xbox | Not listed | Repaired |
 | [EX-080](records/EX-080.md) | PS2 SLIM | SCPH-70012 | Repaired |
 | [EX-034](records/EX-034.md) | PS1 | SCPH-7501 | Repaired |
+| [EX-057](records/EX-057.md) | PS2 FAT | SCPH-39001 | Tested working |
 | [EX-213](records/EX-213.md) | Wii Remote | Not listed | Repaired |
 | [EX-144](records/EX-144.md) | Xbox 360 Play & Charge Cable | Not listed | Repaired |
 | [EX-011](records/EX-011.md) | NES | NES-001 | Repaired |
