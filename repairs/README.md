@@ -56,6 +56,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-022](records/EX-022.md) | PS1 | SCPH-5501 | Repaired |
 | [EX-091](records/EX-091.md) | PS3 | CBEH1000 | Repaired |
 | [EX-178](records/EX-178.md) | PlayStation DualShock 1 | Not listed | Repaired |
+| [EX-247](records/EX-247.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-201](records/EX-201.md) | Wii Nunchuk | Not listed | Repaired |
 | [EX-132](records/EX-132.md) | Xbox 360 | Xenon | Repaired |
 | [EX-063](records/EX-063.md) | PS2 FAT | SCPH-30001 | Repaired |
