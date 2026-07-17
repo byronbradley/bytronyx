@@ -82,6 +82,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-076](records/EX-076.md) | PS2 SLIM | SCPH-77001 | Repaired |
 | [EX-030](records/EX-030.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-007](records/EX-007.md) | NES | NES-001 | Repaired |
+| [EX-232](records/EX-232.md) | Xbox 360 Controller (PowerA Gray) | Not listed | Repaired |
 | [EX-209](records/EX-209.md) | Wii Remote | Not listed | Repaired |
 | [EX-186](records/EX-186.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-117](records/EX-117.md) | Original Xbox | Not listed | Repaired |
