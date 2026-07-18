@@ -121,6 +121,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-056](records/EX-056.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-189](records/EX-189.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-212](records/EX-212.md) | Wii Remote | Not listed | Repaired |
+| [EX-010](records/EX-010.md) | SNES | SNS-001 | Repaired |
 | [EX-143](records/EX-143.md) | Xbox 360 Play & Charge Cable | Not listed | Serviced |
 | [EX-235](records/EX-235.md) | Xbox 360 Controller (Purple & Black) | Not listed | Repaired |
 | [EX-166](records/EX-166.md) | Atari 5200 CX24 Joystick | CX24 | Repaired |
