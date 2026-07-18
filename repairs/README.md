@@ -168,6 +168,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-187](records/EX-187.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-141](records/EX-141.md) | Xbox 360 Play & Charge Cable | Not listed | Serviced |
 | [EX-072](records/EX-072.md) | PS2 SLIM | SCPH-75001 | Swapped whole unit |
+| [EX-164](records/EX-164.md) | Atari 2600 Paddle Controller | Not listed | Repaired |
 | [EX-095](records/EX-095.md) | PS4 | CUH-2215B | Repaired |
 | [EX-026](records/EX-026.md) | PS1 | SCPH-7001 | Repaired |
 | [EX-118](records/EX-118.md) | Original Xbox | Not listed | Repaired |
