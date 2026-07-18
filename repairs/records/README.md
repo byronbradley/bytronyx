@@ -6,6 +6,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 
 | Record | Device | Model | Result |
 | --- | --- | --- | --- |
+| [EX-001](EX-001.md) | Nintendo GameCube | DOL-001 | Repaired |
 | [EX-180](EX-180.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-203](EX-203.md) | Wii Nunchuk | Not listed | Repaired |
 | [EX-226](EX-226.md) | Xbox 360 Controller | Not listed | Repaired |
