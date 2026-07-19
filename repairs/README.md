@@ -114,6 +114,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-240](records/EX-240.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-171](records/EX-171.md) | GameCube Controller (MadCatz) | Not listed | Repaired |
 | [EX-194](records/EX-194.md) | PlayStation DualShock 2 (Gray) | Not listed | Repaired |
+| [EX-217](records/EX-217.md) | Wii Remote Blue | Not listed | Repaired |
 | [EX-148](records/EX-148.md) | Xbox 360 Power Cable | Not listed | Repaired |
 | [EX-125](records/EX-125.md) | Xbox 360 | Jasper | Repaired |
 | [EX-079](records/EX-079.md) | PS2 SLIM | SCPH-79001 | Repaired |
