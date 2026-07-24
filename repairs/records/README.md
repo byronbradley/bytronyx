@@ -99,6 +99,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-181](EX-181.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-158](EX-158.md) | Atari 2600 Driving Controller (CX20) | CX20 | Repaired |
 | [EX-135](EX-135.md) | Xbox 360 | Falcon | Repaired |
+| [EX-112](EX-112.md) | Original Xbox | Not listed | Repaired |
 | [EX-089](EX-089.md) | PS2 SLIM | SCPH-77001 | Repaired |
 | [EX-066](EX-066.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-043](EX-043.md) | PS2 FAT | SCPH-30001 | Repaired |
