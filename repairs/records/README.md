@@ -199,6 +199,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-016](EX-016.md) | PS1 | SCPH-1001 | Repaired |
 | [EX-085](EX-085.md) | PS2 SLIM | SCPH-70001 | Repaired |
 | [EX-241](EX-241.md) | Xbox 360 Controller White | Not listed | Repaired |
+| [EX-039](EX-039.md) | PS1 | SCPH-9001 | Repaired |
 | [EX-195](EX-195.md) | RGA 1170 Flight Joystick | RGA 1170 | Repaired |
 | [EX-126](EX-126.md) | Xbox 360 | Xenon | Tested working |
 | [EX-218](EX-218.md) | Wii Remote Blue | Not listed | Repaired |
