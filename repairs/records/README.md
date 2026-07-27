@@ -13,6 +13,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-134](EX-134.md) | Xbox 360 | Xenon | Swapped whole unit |
 | [EX-157](EX-157.md) | Atari 2600 CX40 Joystick | CX40 | Repaired |
 | [EX-088](EX-088.md) | PS2 SLIM | SCPH-70012 | Repaired |
+| [EX-111](EX-111.md) | Original Xbox | Not listed | Repaired |
 | [EX-042](EX-042.md) | PS1 | SCPH-9001 | Repaired |
 | [EX-065](EX-065.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-019](EX-019.md) | PS1 | SCPH-5501 | Repaired |
