@@ -167,6 +167,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-169](EX-169.md) | GameCube Controller (Game Fury) | Not listed | Repaired |
 | [EX-192](EX-192.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-146](EX-146.md) | Xbox 360 Power Cable | Not listed | Repaired |
+| [EX-123](EX-123.md) | Xbox 360 | Zephyr | Tested working |
 | [EX-100](EX-100.md) | PS one | SCPH-101 | Repaired |
 | [EX-077](EX-077.md) | PS2 SLIM | SCPH-77001 | Repaired |
 | [EX-054](EX-054.md) | PS2 FAT | SCPH-30001 | Repaired |
