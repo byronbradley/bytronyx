@@ -155,6 +155,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-064](EX-064.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-041](EX-041.md) | PS1 | SCPH-9001 | Swapped whole unit |
 | [EX-018](EX-018.md) | PS1 | SCPH-1001 | Tested working |
+| [EX-243](EX-243.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-220](EX-220.md) | Xbox 360 Chatpad Controller | Not listed | Repaired |
 | [EX-197](EX-197.md) | Sega Genesis Controller | Not listed | Repaired |
 | [EX-174](EX-174.md) | Genstik Atari 2600 Joystick | Not listed | Repaired |
