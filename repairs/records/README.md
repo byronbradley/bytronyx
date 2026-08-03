@@ -217,6 +217,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-116](EX-116.md) | Original Xbox | Not listed | Pending repair |
 | [EX-057](EX-057.md) | PS2 FAT | SCPH-39001 | Tested working |
 | [EX-213](EX-213.md) | Wii Remote | Not listed | Repaired |
+| [EX-093](EX-093.md) | PS3 | CECH-3001A | Pending repair |
 | [EX-144](EX-144.md) | Xbox 360 Play & Charge Cable | Not listed | Repaired |
 | [EX-011](EX-011.md) | NES | NES-001 | Repaired |
 | [EX-098](EX-098.md) | PS one | SCPH-101 | Repaired |
