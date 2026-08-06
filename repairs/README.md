@@ -220,6 +220,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-093](records/EX-093.md) | PS3 | CECH-3001A | Pending repair |
 | [EX-144](records/EX-144.md) | Xbox 360 Play & Charge Cable | Not listed | Repaired |
 | [EX-011](records/EX-011.md) | NES | NES-001 | Repaired |
+| [EX-006](records/EX-006.md) | NES | NES-001 | Pending repair |
 | [EX-098](records/EX-098.md) | PS one | SCPH-101 | Repaired |
 | [EX-167](records/EX-167.md) | GameCube Controller | Not listed | Repaired |
 | [EX-190](records/EX-190.md) | PlayStation DualShock 2 | Not listed | Repaired |
