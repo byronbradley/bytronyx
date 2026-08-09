@@ -134,6 +134,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-143](records/EX-143.md) | Xbox 360 Play & Charge Cable | Not listed | Serviced |
 | [EX-235](records/EX-235.md) | Xbox 360 Controller (Purple & Black) | Not listed | Repaired |
 | [EX-166](records/EX-166.md) | Atari 5200 CX24 Joystick | CX24 | Repaired |
+| [EX-097](records/EX-097.md) | PS one | SCPH-101 | Repaired |
 | [EX-120](records/EX-120.md) | Xbox 360 | Jasper | Repaired |
 | [EX-051](records/EX-051.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-005](records/EX-005.md) | NES | NES-001 | Repaired |
