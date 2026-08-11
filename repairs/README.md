@@ -229,6 +229,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-190](records/EX-190.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-121](records/EX-121.md) | Xbox 360 | Trinity | Repaired |
 | [EX-052](records/EX-052.md) | PS2 FAT | SCPH-39001 | Repaired |
+| [EX-070](records/EX-070.md) | PS2 SLIM | SCPH-75001 | Pending repair |
 | [EX-075](records/EX-075.md) | PS2 SLIM | SCPH-77001 | Tested working |
 | [EX-162](records/EX-162.md) | Atari 2600 Paddle Controller | Not listed | Repaired |
 | [EX-231](records/EX-231.md) | Xbox 360 Controller (MadCatz) | Not listed | Repaired |
