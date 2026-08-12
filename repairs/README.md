@@ -78,6 +78,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-035](records/EX-035.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-127](records/EX-127.md) | Xbox 360 | Xenon | Repaired |
 | [EX-058](records/EX-058.md) | PS2 FAT | SCPH-39001 | Repaired |
+| [EX-214](records/EX-214.md) | Wii Remote Black | Not listed | Repaired |
 | [EX-012](records/EX-012.md) | NES | NES-001 | Repaired |
 | [EX-237](records/EX-237.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-168](records/EX-168.md) | GameCube Controller Black | Not listed | Repaired |
