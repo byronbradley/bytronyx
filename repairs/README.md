@@ -113,6 +113,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-020](records/EX-020.md) | PS1 | SCPH-5501 | Repaired |
 | [EX-245](records/EX-245.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-222](records/EX-222.md) | Xbox 360 Controller | Not listed | Repaired |
+| [EX-153](records/EX-153.md) | Atari 2600 CX40 Joystick | CX40 | Repaired |
 | [EX-176](records/EX-176.md) | Nyko Kama Nunchuk | Not listed | Repaired |
 | [EX-107](records/EX-107.md) | Original Xbox | Not listed | Repaired |
 | [EX-199](records/EX-199.md) | Spider-Man Plug & Play Controller | Not listed | Repaired |
