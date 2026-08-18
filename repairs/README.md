@@ -84,6 +84,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-237](records/EX-237.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-168](records/EX-168.md) | GameCube Controller Black | Not listed | Repaired |
 | [EX-099](records/EX-099.md) | PS one | SCPH-101 | Tested working |
+| [EX-191](records/EX-191.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-122](records/EX-122.md) | Xbox 360 | Jasper | Repaired |
 | [EX-145](records/EX-145.md) | Xbox 360 Power Cable | Not listed | Serviced |
 | [EX-076](records/EX-076.md) | PS2 SLIM | SCPH-77001 | Repaired |
