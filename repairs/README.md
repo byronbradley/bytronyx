@@ -202,6 +202,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-090](records/EX-090.md) | PS3 | CBEH1000 | Tested working |
 | [EX-136](records/EX-136.md) | Xbox 360 | Falcon | Repaired |
 | [EX-044](records/EX-044.md) | PS2 FAT | SCPH-50001 | Repaired |
+| [EX-067](records/EX-067.md) | PS2 FAT | SCPH-30001 | Repaired |
 | [EX-223](records/EX-223.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-021](records/EX-021.md) | PS1 | SCPH-5501 | Repaired |
 | [EX-246](records/EX-246.md) | Xbox 360 Controller White | Not listed | Repaired |
