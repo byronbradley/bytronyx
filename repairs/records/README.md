@@ -22,6 +22,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-244](EX-244.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-175](EX-175.md) | NES Advantage Controller | Not listed | Repaired |
 | [EX-152](EX-152.md) | Atari 2600 CX40 Joystick | CX40 | Repaired |
+| [EX-106](EX-106.md) | Original Xbox | Not listed | Repaired |
 | [EX-129](EX-129.md) | Xbox 360 | Falcon | Repaired |
 | [EX-083](EX-083.md) | PS2 SLIM | SCPH-70012 | Repaired |
 | [EX-060](EX-060.md) | PS2 FAT | SCPH-39001 | Repaired |
