@@ -174,6 +174,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-036](EX-036.md) | PS1 | SCPH-7501 | Tested working |
 | [EX-059](EX-059.md) | PS2 FAT | SCPH-35001 | Repaired |
 | [EX-082](EX-082.md) | PS2 SLIM | SCPH-70012 | Repaired |
+| [EX-013](EX-013.md) | NES | NES-001 | Tested working |
 | [EX-215](EX-215.md) | Wii Remote Black | Not listed | Repaired |
 | [EX-238](EX-238.md) | Xbox 360 Controller White | Not listed | Repaired |
 | [EX-169](EX-169.md) | GameCube Controller (Game Fury) | Not listed | Repaired |
