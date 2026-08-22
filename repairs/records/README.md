@@ -151,6 +151,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-184](EX-184.md) | PlayStation DualShock 2 | Not listed | Repaired |
 | [EX-115](EX-115.md) | Original Xbox | Not listed | Repaired |
 | [EX-138](EX-138.md) | Xbox 360 Breakaway Cable | Not listed | Repaired |
+| [EX-069](EX-069.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-092](EX-092.md) | PS3 | CECH-2001A | Repaired |
 | [EX-225](EX-225.md) | Xbox 360 Controller | Not listed | Repaired |
 | [EX-023](EX-023.md) | PS1 | SCPH-5501 | Repaired |
