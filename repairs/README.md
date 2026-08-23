@@ -75,6 +75,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-196](records/EX-196.md) | Sega Genesis Controller | Not listed | Repaired |
 | [EX-219](records/EX-219.md) | Wii Remote Red | Not listed | Repaired |
 | [EX-150](records/EX-150.md) | Atari 2600 CX40 Joystick | CX40 | Repaired |
+| [EX-081](records/EX-081.md) | PS2 SLIM | SCPH-90001 | Repaired |
 | [EX-173](records/EX-173.md) | GameCube Controller Orange | Not listed | Repaired |
 | [EX-104](records/EX-104.md) | Original Xbox | Not listed | Repaired |
 | [EX-035](records/EX-035.md) | PS1 | SCPH-7501 | Repaired |
