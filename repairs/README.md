@@ -247,4 +247,5 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-029](records/EX-029.md) | PS1 | SCPH-7501 | Repaired |
 | [EX-208](records/EX-208.md) | Wii Remote | Not listed | Repaired |
 | [EX-139](records/EX-139.md) | Xbox 360 Headset | Not listed | Repaired |
+| [EX-047](records/EX-047.md) | PS2 FAT | SCPH-30001 | Pending repair |
 | [EX-024](records/EX-024.md) | PS1 | SCPH-7001 | Repaired |
