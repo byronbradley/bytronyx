@@ -144,6 +144,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-097](EX-097.md) | PS one | SCPH-101 | Repaired |
 | [EX-120](EX-120.md) | Xbox 360 | Jasper | Repaired |
 | [EX-051](EX-051.md) | PS2 FAT | SCPH-30001 | Repaired |
+| [EX-074](EX-074.md) | PS2 SLIM | SCPH-70012 | Repaired |
 | [EX-005](EX-005.md) | NES | NES-001 | Repaired |
 | [EX-230](EX-230.md) | Xbox 360 Controller Clear | Not listed | Repaired |
 | [EX-028](EX-028.md) | PS1 | SCPH-7501 | Repaired |
