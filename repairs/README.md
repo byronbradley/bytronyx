@@ -198,6 +198,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-095](records/EX-095.md) | PS4 | CUH-2215B | Repaired |
 | [EX-026](records/EX-026.md) | PS1 | SCPH-7001 | Repaired |
 | [EX-118](records/EX-118.md) | Original Xbox | Not listed | Repaired |
+| [EX-049](records/EX-049.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-003](records/EX-003.md) | Nintendo GameCube | DOL-001 | Repaired |
 | [EX-205](records/EX-205.md) | Wii Nunchuk Black | Not listed | Repaired |
 | [EX-228](records/EX-228.md) | Xbox 360 Controller | Not listed | Repaired |
