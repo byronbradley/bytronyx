@@ -215,6 +215,7 @@ Each entry includes the problem, checks, repair, tests, and costs. Five entries 
 | [EX-108](records/EX-108.md) | Original Xbox | Not listed | Tested working |
 | [EX-177](records/EX-177.md) | Nyko Wireless Nunchuk | Not listed | Repaired |
 | [EX-200](records/EX-200.md) | Wico Command Control Joystick | Not listed | Repaired |
+| [EX-131](records/EX-131.md) | Xbox 360 | Jasper | Repaired |
 | [EX-062](records/EX-062.md) | PS2 FAT | SCPH-39001 | Repaired |
 | [EX-154](records/EX-154.md) | Atari 2600 CX40 Joystick | CX40 | Repaired |
 | [EX-016](records/EX-016.md) | PS1 | SCPH-1001 | Repaired |
