@@ -8,8 +8,8 @@
 | 2025 | 71 |
 | 2026 | 75 |
 
-Five entries are still pending repair and have no sale date. Their asking
-prices are excluded from sales until a completed sale is recorded.
+Five entries were left pending repair and have no sale date. Their asking
+prices are excluded from sales.
 
 ## Costs
 

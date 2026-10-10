@@ -11,7 +11,7 @@
 
 ## Stock and packing
 
-I buy broken consoles to repair and resell. These photos show a stock purchase,
+I bought broken consoles to repair and resell. These photos show a stock purchase,
 stored consoles, and packing supplies.
 
 | Buying stock | Console storage | Packing supplies |
